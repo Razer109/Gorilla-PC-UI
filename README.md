@@ -13,3 +13,5 @@ App tab: Quit
 Leaderboard: Shows the players in room
 
 Credits Tab: says i made it
+
+Player Mods: Shows all *WORKING* mods
